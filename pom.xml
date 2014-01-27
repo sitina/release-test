@@ -32,9 +32,9 @@
 
 
     <scm>
-        <connection>scm:git:git@github.com:gooddata/gdc-backend.git</connection>
-        <developerConnection>scm:git:git@github.com:gooddata/gdc-backend.git</developerConnection>
-        <url>https://github.com/gooddata/gdc-backend</url>
+        <connection>scm:git:git@github.com:sitina/release-test.git</connection>
+        <developerConnection>scm:git:git@github.com:sitina/release-test.git</developerConnection>
+        <url>https://github.com/sitina/release-test</url>
     </scm>
 
     <developers>
